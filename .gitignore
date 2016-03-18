@@ -1,0 +1,4 @@
+*.out
+*.tga
+*.vscode
+build/
